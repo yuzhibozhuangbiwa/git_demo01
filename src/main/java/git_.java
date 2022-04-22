@@ -3,5 +3,6 @@ public class git_ {
         System.out.println("first");
         System.out.println("third");
         System.out.println("合并");
+        System.out.println("合并冲突master");
     }
 }
