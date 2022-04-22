@@ -4,5 +4,6 @@ public class git_ {
         System.out.println("third");
         System.out.println("合并");
         System.out.println("合并冲突master");
+        System.out.println("差异合并fz1");
     }
 }
